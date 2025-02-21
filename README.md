@@ -16,11 +16,11 @@ This project analyzes pizza sales data using **Power BI & SQL** to uncover key b
 ## 📊 Key Performance Indicators (KPIs)
 
 - **Sales Performance Analysis** – Identifies top-selling pizzas, revenue distribution, and sales trends.
-- **Total Revenue** -
-- **Average Order Value** -
-- **Total Pizzas Sold** -
-- **Total Orders** -
-- **Average Pizzas Per Order** - 
+- **Total Revenue** -  Measures overall earnings from pizza sales, helping to track business growth.
+- **Average Order Value** - Calculates the average revenue per order, allowing assessment of customer spending behavior.
+- **Total Pizzas Sold** - Tracks the total number of pizzas sold over a specific period, aiding in inventory and demand planning
+- **Total Orders** - Measures the total number of customer orders placed, helping to analyze order frequency and sales volume.
+- **Average Pizzas Per Order** - Determines the average number of pizzas purchased per order, providing insights into customer purchasing patterns.
 - **Customer Behavior Analysis** – Tracks customer buying patterns and preferences.
 - **Interactive Dashboards** – Provides drill-through capabilities and dynamic filtering for deeper insights.
 
@@ -31,14 +31,6 @@ This project analyzes pizza sales data using **Power BI & SQL** to uncover key b
 3. **Data Modeling:** Established relationships between tables to enable efficient querying and reporting.
 4. **Dashboard Development:** Built intuitive and interactive visualizations in Power BI.
 
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Install **Power BI Desktop**
-- Setup **SQL Server / MySQL / PostgreSQL** (any SQL-compatible database)
-- Basic understanding of SQL and Power BI
 
 ### Installation & Usage
 
@@ -68,13 +60,7 @@ For any queries, reach out via:
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/praveen-kumar-87b075287/)
 - **Email:** [My Email](mailto\:kumarpraveen.iitp@gmail.com)
 
-## ⭐ Acknowledgments
-
-- **Microsoft Power BI Documentation** – For extensive learning resources.
-- **SQL Community** – For best practices and optimization techniques.
-
 ---
-
 
 
 
