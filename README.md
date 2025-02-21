@@ -44,7 +44,7 @@ This project analyzes pizza sales data using **Power BI & SQL** to uncover key b
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/Pizza-Sales-Analysis.git
+   https://github.com/PraveenIITP/Pizza-Sales-Analysis-.git
    ```
 2. Import the dataset into your SQL database.
 3. Run the SQL scripts to clean and transform the data.
