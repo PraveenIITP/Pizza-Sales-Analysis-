@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Analysis
+# 🍕 Pizza Sales Analysis Using SQL & POWER BI
 
 ## 📌 Project Overview
 
